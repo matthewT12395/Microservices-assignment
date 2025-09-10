@@ -11,6 +11,10 @@ Entering created virtual environment and starting order_service.py:
 <img width="1447" height="243" alt="image" src="https://github.com/user-attachments/assets/63d5607a-af93-4a91-bdd3-9f4527d7cbfc" />
 
 
+Creating a user with name = charlie and email = Charlie@example.com
+<img width="1893" height="222" alt="image" src="https://github.com/user-attachments/assets/4e6eeb6b-3bfe-449d-8cad-4d639cb6ae0d" />
+
+
 
 Getting a user:
 <img width="1691" height="717" alt="image" src="https://github.com/user-attachments/assets/a2e0e938-3e1c-4aca-b277-2ce129258009" />
